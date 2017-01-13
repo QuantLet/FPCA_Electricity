@@ -12,8 +12,8 @@ Author:            Franziska Schulz, Brenda López Cabrera
 
 Submitted:         30.09.2016
 
-Datafile:          LoadTSO.txt
+Datafile:          LoadTSO.txt, LoadBU.txt
 
 Input:             FPCA_Electricity_Data.R, FPCA_Electricity_Functions
  
-Example:           MSE and standard deviation of the simulation results
+Example:           'Principal component functions and principal component scores. Forecast of expectile curves.'
