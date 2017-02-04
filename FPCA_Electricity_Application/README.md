@@ -29,6 +29,8 @@ Example : MSE and standard deviation of the simulation results
 
 ```
 
+![Picture1](FPCA_Electricity_Application_PC.png)
+
 
 ### R Code:
 ```r
