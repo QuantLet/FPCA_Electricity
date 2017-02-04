@@ -25,11 +25,14 @@ Datafile : LoadTSO.txt
 
 Input : FPCA_Electricity_Data.R, FPCA_Electricity_Functions
 
-Example : MSE and standard deviation of the simulation results
+Example : 'Principal component functions and principal component scores. Forecast of expectile curves.'
 
 ```
 
 ![Picture1](FPCA_Electricity_Application_PC.png)
+![Picture2](FPCA_Electricity_Application_Scores.png)
+![Picture3](FPCA_Electricity_Application_Boxplot.png)
+![Picture4](FPCA_Electricity_Application_ProbFore.png)
 
 
 ### R Code:
