@@ -30,8 +30,11 @@ Example : 'Principal component functions and principal component scores. Forecas
 ```
 
 ![Picture1](FPCA_Electricity_Application_PC.png)
+
 ![Picture2](FPCA_Electricity_Application_Scores.png)
+
 ![Picture3](FPCA_Electricity_Application_Boxplot.png)
+
 ![Picture4](FPCA_Electricity_Application_ProbFore.png)
 
 
