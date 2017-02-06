@@ -23,7 +23,7 @@ Datafile:          LoadTSO.mat
 
 Input:             FPCA_Electricity_Data.R, FPCA_Electricity_Functions
  
-Example: 'Surface plot of electricity load curves'
+Example:           'Surface plot of electricity load curves'
 
 ```
 
@@ -37,7 +37,7 @@ clear
 load('LoadTSO.mat')
 
 figure1 = figure('PaperType', 'a4letter');
-axes1 = axes('Parent', figure1,...
+axes1   = axes('Parent', figure1,...
     'ZTickLabel', {'100', '150', '200', '250', '300', '350'},...
     'YTickLabel', {'', '2012', '2011', '2010'},...
     'YTick', [0 365 712 1095],...
