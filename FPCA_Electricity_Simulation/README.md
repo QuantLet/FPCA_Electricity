@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of QuantLet: FPCA_Electricity_Simulation
-
 Published in: Forecasting generalized quantiles of electricity demand: A functional data approach
 
 Description: Conducts a simulation study of the proposed methodology and computes the MSE
