@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of QuantLet: FPCA_Electricity_Application
-
 Published in: Forecasting generalized quantiles of electricity demand: A functional data approach
 
 Description: Computes generalized quantiles of electicity demand and models their dynamics over time using FPCA and multivariate time-series techniques
