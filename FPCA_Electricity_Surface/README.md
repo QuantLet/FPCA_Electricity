@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of QuantLet: FPCA_Electricity_Surface
-
 Published in: Forecasting generalized quantiles of electricity demand: A functional data approach
 
 Description: Plots a surface of intradaily electricity load curves over time
